@@ -16,7 +16,7 @@ $loc = "Sous|Sur|dans|Près|Loin|Là|Ici|Ailleurs|Devant|Au-delà|Face|Derrière
 $quant = "Environ|Quelques|Nombre|Très|Peu|plus|moins|Certains";
 $temps = "Quand|Hier|aujourd|Lors|Depuis|avant|après|pendant|Longtemps|Début|Fin|Parfois|Durant";
 $jargon = "Verra-t-on|Article|Cité|Originaire|Né|Née|Mort|Côté|Personne|Ancien|Résultats?|Ayant|Soit|Faute|Sorti|Parfois|Fort|Fondé|Faut-il|Fallait-il|Cf.|Vue|Voyez|Intervention|Issu";
-$autres = "C'est|Hello|Berceau|Statue|Rejet|Résistance|Autour|Monsieur|Mme|L|C|Rien|Est-il|Être|Comment|Alors|Tel|Telle|Député|Editions|Prix|Commission|Etats?|Organisation|Nièce|Montagnes|Sénat|Vieux|Saint|Moyen|Dès|Naguère|Assemblée|Union|Société|Puis|Occidentaux|Enfin|Directeur|Aussi|Outre|Jamais|Toutefois|Programme|Jeune|Même|Déjà|Entre|Nombreux|Pourtant|Seule?s?|Cet|Non|Certes|Chez|Chacun|Notamment|Nouve(?:au|l)|Préface|AUJOURD|Parallèlement|Dernière|The|Réaction|Réponse|Absent" ;
+$autres = "C'est|Hello|Berceau|Statue|Rejet|Résistance|Autour|Monsieur|Mme|L|C|Rien|Est-il|Être|Comment|Alors|Tel|Telle|Député|Editions|Prix|Commission|Etats?|Organisation|Nièce|Montagnes|Sénat|Vieux|Saint|Moyen|Dès|Naguère|Assemblée|Union|Société|Puis|Occidentaux|Enfin|Directeur|Aussi|Outre|Jamais|Toutefois|Programme|Jeune|Même|Déjà|Entre|Nombreux|Pourtant|Seule?s?|Cet|Non|Certes|Chez|Chacun|Notamment|Nouve(?:au|l)|Préface|AUJOURD|Parallèlement|Dernière|The|Réaction|Réponse|Absent|Tableau I+" ;
 $verbes_debut = "Faire|Laisser|Retrouver" ;
 
 //$singleton = "Internet|Dieu|Eglise|Djihad|Prophète|Toile";
